@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "319903506719",
+    "firebase_url": "https://hello-firebase-919b3.firebaseio.com",
+    "project_id": "hello-firebase-919b3",
+    "storage_bucket": "hello-firebase-919b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319903506719:android:17a76637c309891c",
+        "android_client_info": {
+          "package_name": "com.dagger.xda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319903506719-l627hs5k552c2v645cnk6m7bopdi6f86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNf2B0EOZ1Di21JQiM5Nme-wEbzudJdaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319903506719-l627hs5k552c2v645cnk6m7bopdi6f86.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "319903506719-ng4qthavsidpd0askqcjqfom6q15fb8m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harshit.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319903506719:android:6c7144ddc6f6c2baba102a",
+        "android_client_info": {
+          "package_name": "com.harshithd.firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319903506719-n66t0ooejsh8sinb6r6u26npc0qikduc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harshithd.firebaseauth",
+            "certificate_hash": "763be6a492332d8333050c6926f7e3efcfceb67e"
+          }
+        },
+        {
+          "client_id": "319903506719-l627hs5k552c2v645cnk6m7bopdi6f86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNf2B0EOZ1Di21JQiM5Nme-wEbzudJdaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319903506719-l627hs5k552c2v645cnk6m7bopdi6f86.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "319903506719-ng4qthavsidpd0askqcjqfom6q15fb8m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.harshit.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
